@@ -1,14 +1,14 @@
 {
-  "name": "sql-generator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "file2Generate.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Cezar Augusto",
-  "license": "ISC",
-  "dependencies": {
-    "read-excel-file": "^4.1.0"
-  }
+    "name": "sql-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "run.js",
+    "scripts": {
+        "start": "node run.js"
+    },
+    "author": "Cezar Augusto",
+    "license": "ISC",
+    "dependencies": {
+        "read-excel-file": "^4.1.0"
+    }
 }
