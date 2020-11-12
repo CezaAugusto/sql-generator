@@ -54,6 +54,4 @@ async function generate (path2Generate, path2SaveResult) {
     }
 }
 
-module.exports = {
-    generate, readXlsx, compare
-}
+module.exports = { generate, readXlsx, compare }
