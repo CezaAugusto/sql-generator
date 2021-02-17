@@ -1,6 +1,6 @@
 # sql-generator
 
-This project works like a sql generator (but can be used for anything else) from an excel spreadsheet
+This project works like a SQL generator (but can be used for anything else) from an excel spreadsheet
 
 ### Motivation
 
