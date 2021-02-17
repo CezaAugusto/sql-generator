@@ -5,7 +5,8 @@ This project works like a sql generator (but can be used for anything else) from
 ### Motivation
 
 ```ssh 
-I did this project thinking about a problem I was having, it probably won't satisfy your needs without being modified.
+I did this project thinking about a problem I was having.
+It probably won't satisfy your needs without being modified.
 ```
 
 ### Run
